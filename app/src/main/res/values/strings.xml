@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OjO Video</string>
+
+
+    <string name="long_fixations">Long fixations</string>
+    <string name="saccade_rate">Saccade rate</string>
+    <string name="blink_rate">Blink rate</string>
+    <string name="per_min">/min</string>
+    <string name="sec">sec</string>
+</resources>
